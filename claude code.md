@@ -42,4 +42,4 @@ Add this content:
 * Testing
 You should now see the Model chosen:
 `/status` will tell you your information
-<img width="1113" height="626" alt="image" src="https://github.com/user-attachments/assets/f3b9d886-1d97-4f6b-a348-1a6c052fb174" />
+<img width="1113" height="626" alt="image" src="https://github.com/user-attachments/assets/06a8a2a5-6545-4ea2-9061-f6cbf2dc1b6a" />
