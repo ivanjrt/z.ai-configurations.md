@@ -1,12 +1,12 @@
-# Claude Code Configuration Guide
+# 🤖 Claude Code Configuration Guide
 
 This guide will walk you through the installation and configuration of the Claude code command-line interface.
 
-## 1. Prerequisites
+## 📋 1. Prerequisites
 
 Before you begin, ensure you open a new terminal window (like PowerShell or Command Prompt) with **Administrator rights**.
 
-## 2. Installation
+## 🚀 2. Installation
 
 Execute the following command in your terminal to download and run the installer script:
 
