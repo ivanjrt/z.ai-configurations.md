@@ -1,1 +1,2 @@
-These are configurations for installing z.ai in different products. this is still WIP
+These are configurations for installing z.ai in different products. More to come.
+For now Enjoy! 😊
