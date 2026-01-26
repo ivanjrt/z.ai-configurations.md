@@ -1,4 +1,4 @@
-# 🤖 Claude Code Configuration Guide
+# 🤖 Claude Code Configuration Guide - Windows
 
 This guide will walk you through the installation and configuration of the Claude code command-line interface.
 
