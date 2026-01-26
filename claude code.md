@@ -40,5 +40,6 @@ Add this content:
 ```
 
 * Testing
-you should now see the Model chosen:
-`/status` this will tell you your information
+You should now see the Model chosen:
+`/status` will tell you your information
+<img width="1113" height="626" alt="image" src="https://github.com/user-attachments/assets/f3b9d886-1d97-4f6b-a348-1a6c052fb174" />
