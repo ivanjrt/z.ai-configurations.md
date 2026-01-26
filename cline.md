@@ -7,11 +7,18 @@
 - Add these highlighted settings:
 <img width="343" height="1032" alt="image" src="https://github.com/user-attachments/assets/ab1c1c0c-da10-4cfd-8c37-4e076d4b04be" />
 
-API Provider: Select OpenAI Compatible
-Base URL: Enter https://api.z.ai/api/coding/paas/v4
-API Key: Enter your Z.AI API Key
-Model: Select “Use custom” and enter the model name (e.g., glm-4.7)
+API Provider: Select `OpenAI Compatible`
+
+Base URL: Enter `https://api.z.ai/api/coding/paas/v4`
+
+- API Key: Enter your Z.AI API Key
+
+Model: Select “Use custom” and enter the model name (e.g., `glm-4.7`)
+
 Other Configurations:
-Unchecking Support Images
-Adjust Context Window Size to 200000
-Adjust temperature and other parameters according to your task requirements.
+
+- Unchecking Support Images
+
+- Adjust Context Window Size to `200000`
+
+- Adjust temperature and other parameters according to your task requirements.
