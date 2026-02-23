@@ -22,7 +22,7 @@ Save this snippet as json:
     },
     {
       "parameters": {
-        "model": "GLM-4.7",
+        "model": "z1",
         "options": {}
       },
       "id": "zai-chat-model",
