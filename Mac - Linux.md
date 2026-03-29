@@ -6,7 +6,7 @@ it will prompt for the `Z.AI` key.
 
 Edit this file 
 ```bash
-nano `~/.claude/settings.json`
+nano ~/.claude/settings.json
 ```
 and make sure it has this info below, don't forget the commas `,`
 
