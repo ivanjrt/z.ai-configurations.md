@@ -23,3 +23,10 @@ and make sure it has this info below, don't forget the commas `,`
   }
 }
 ```
+# Troubleshooting:
+
+if for some reason `claude` is not able to launch from anywhere in the network then:
+
+```
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc
+```
