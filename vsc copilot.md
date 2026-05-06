@@ -28,12 +28,12 @@
 ],
 "generic-copilot.models": [
     {
-        "id": "GLM-4.7",
-        "slug": "glm-4.7",
+        "id": "glm-5.1",
+        "slug": "glm-5.1",
         "provider": "z.ai",
         "model_properties": {},
         "model_parameters": {},
-        "displayName": "GLM-4.7"
+        "displayName": "glm-5.1"
     }
 ]
 ```
