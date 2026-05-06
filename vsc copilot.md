@@ -1,4 +1,4 @@
-1 - Install `Copilot Chat` from the Marketplace
+1 - Install `Copilot Chat` sometimes called `generic-copilot` from the Marketplace
 
 <img width="345" height="83" alt="image" src="https://github.com/user-attachments/assets/2b882519-cfcc-4c62-9b8e-27c7b620c2fa" />
 
