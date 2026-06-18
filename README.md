@@ -11,23 +11,23 @@ To run `claude` w.o asking a lot of questions do:
 
 Bonus: In case Hermes installation:
 
-📁 Your files:
+📁 Your files: <br/>
 
-   Config:    /root/.hermes/config.yaml
-   API Keys:  /root/.hermes/.env
-   Data:      /root/.hermes/cron/, sessions/, logs/
-   Code:      /usr/local/lib/hermes-agent
+   Config:    /root/.hermes/config.yaml <br/>
+   API Keys:  /root/.hermes/.env <br/>
+   Data:      /root/.hermes/cron/, sessions/, logs/ <br/>
+   Code:      /usr/local/lib/hermes-agent <br/><br/>
 
-─────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────<br/><br/>
 
-🚀 Commands:
+🚀 Commands: <br/>
 
-   hermes              Start chatting
-   hermes setup        Configure API keys & settings
-   hermes config       View/edit configuration
-   hermes config edit  Open config in editor
-   hermes gateway install Install gateway service (messaging + cron)
-   hermes update       Update to latest version
+   hermes              Start chatting<br/>
+   hermes setup        Configure API keys & settings<br/>
+   hermes config       View/edit configuration<br/>
+   hermes config edit  Open config in editor<br/>
+   hermes gateway install Install gateway service (messaging + cron)<br/>
+   hermes update       Update to latest version<br/>
 
 ─────────────────────────────────────────────────────────
 
